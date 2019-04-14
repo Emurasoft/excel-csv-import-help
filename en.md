@@ -14,25 +14,25 @@ importType.png,7640
 newlineSequence.png,2544
 ```
 
-<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/import/importType.png?raw=true" width="200px" />
+<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/import/importType.png?raw=true" width="300px" />
 
 1. Import type dropdown and input
 
     Import type is the import source. You can upload a file or select "Text input" to copy and paste the CSV as text.
 
-<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/import/encoding.png?raw=true" width="200px" />
+<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/import/encoding.png?raw=true" width="300px" />
 
 2. Encoding dropdown
 
     Most files will be imported correctly with Auto-detect, but you may have to select the correct encoding if the imported text is not correct. This dropdown is available if Import type is File.
 
-<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/import/delimiter.png?raw=true" width="200px" />
+<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/import/delimiter.png?raw=true" width="300px" />
 
 3. Delimiter dropdown
 
     Delimiter is the field separator, which is typically a comma. Select "Other" to input a custom delimiter.
 
-<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/import/newlineSequence.png?raw=true" width="200px" />
+<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/import/newlineSequence.png?raw=true" width="300px" />
 
 4. Newline sequence dropdown
 
@@ -50,25 +50,25 @@ newlineSequence.png,2544
 
 The Export CSV pane contains options for exporting the current worksheet to CSV. 
 
-<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/export/exportType.png?raw=true" width="200px" />
+<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/export/exportType.png?raw=true" width="300px" />
 
 1. Export type dropdown
 
     Choose between downloading the exported CSV file or copying the result from a text box. The File option is disabled on Excel for Mac and Excel for iPad because the save as dialog box does not appear on those platforms.
 
-<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/export/encoding.png?raw=true" width="200px" />
+<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/export/encoding.png?raw=true" width="300px" />
 
 2. Encoding dropdown
 
     This is the encoding of the output file.
 
-<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/export/delimiter.png?raw=true" width="200px" />
+<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/export/delimiter.png?raw=true" width="300px" />
 
 3. Delimiter dropdown
 
     Delimiter is the field separator, which is typically a comma. Select "Other" to input a custom delimiter.
 
-<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/export/newlineSequence.png?raw=true" width="200px" />
+<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/export/newlineSequence.png?raw=true" width="300px" />
 
 4. Newline sequence dropdown
 
