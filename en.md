@@ -4,7 +4,7 @@
 
 The Import CSV pane contains options for importing CSV data to your workbook.
 
-Here is a sample CSV to test out the app:
+Here is a sample CSV text to test out the app:
 
 ```
 name,size
@@ -24,7 +24,7 @@ newlineSequence.png,2544
 
 2. Encoding dropdown
 
-    Most files will be imported correctly with Auto-detect, but you may have to select the correct encoding if the imported text isn't correct. This option is available if Import type is File.
+    Most files will be imported correctly with Auto-detect, but you may have to select the correct encoding if the imported text is not correct. This dropdown is available if Import type is File.
 
 <img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/import/delimiter.png?raw=true" width="200px" />
 
@@ -40,7 +40,7 @@ newlineSequence.png,2544
 
 5. Import CSV button
 
-    Click Import CSV to import the CSV file or text. If the current worksheet is blank, the imported data is added the the current worksheet, otherwise the data is added to a new worksheet.
+    Click Import CSV to start importing using the above options. If the current worksheet is blank, the imported data is added the the current worksheet, otherwise the data is added to a new worksheet.
 
 6. Save options toggle
 
@@ -54,13 +54,13 @@ The Export CSV pane contains options for exporting the current worksheet to CSV.
 
 1. Export type dropdown
 
-    Choose between downloading the exported CSV file or copying the CSV from a text box. The File option is disabled on Excel for Mac and Excel for iPad because the save as dialog box does not open on those platforms. Though I have reported this issue to Office, they have not responded.
+    Choose between downloading the exported CSV file or copying the result from a text box. The File option is disabled on Excel for Mac and Excel for iPad because the save as dialog box does not appear on those platforms.
 
 <img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/export/encoding.png?raw=true" width="200px" />
 
 2. Encoding dropdown
 
-    This is the encoding of the exported file.
+    This is the encoding of the output file.
 
 <img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/export/delimiter.png?raw=true" width="200px" />
 
@@ -76,7 +76,7 @@ The Export CSV pane contains options for exporting the current worksheet to CSV.
 
 5. Export to CSV button
 
-    Click Export to CSV to export the current worksheet.
+    Click Export to CSV to export the current worksheet using the above options.
 
 6. Save options toggle
 
