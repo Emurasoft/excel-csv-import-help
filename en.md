@@ -54,7 +54,7 @@ The Export CSV pane contains options for exporting the current worksheet to CSV.
 
 1. Export type dropdown
 
-    Choose between downloading the exported CSV file or copying the result from a text box. The File option is disabled on Excel for Mac and Excel for iPad because the save as dialog box does not appear on those platforms.
+    Choose between copying the result from a text box or downloading the exported CSV file. The File option is only available for Excel Online because the "save as" dialog box does not appear on desktop platforms.
 
 <img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/export/encoding.png?raw=true" width="350px" />
 
