@@ -18,7 +18,7 @@ newlineSequence.png,2544
 
 <img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/import/importType.png?raw=true" width="350px" />
 
-Import type is the import source. You can upload a file or select "Text input" to copy and paste the CSV as text.
+You can upload a file or select "Text input" to copy and paste the CSV as text.
 
 2. Encoding dropdown
 
