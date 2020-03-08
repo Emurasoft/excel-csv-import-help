@@ -4,7 +4,7 @@
 
 The Import CSV pane contains options for importing CSV data to your workbook.
 
-Here is a sample CSV text to test out the app:
+Here is a sample CSV to test out the app:
 
 ```
 name,size
@@ -24,7 +24,7 @@ Import type is the import source. You can upload a file or select "Text input" t
 
 <img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/import/encoding.png?raw=true" width="350px" />
 
-Most files will be imported correctly with Auto-detect, but you may have to select the correct encoding if the imported text is not correct. This dropdown is available if Import type is File.
+Most files will be imported correctly with Auto-detect, but you may have to select the correct encoding if the result does not look correct. This dropdown is available if Import type is File.
 
 3. Delimiter dropdown
 
@@ -72,7 +72,7 @@ Delimiter is the field separator, which is typically a comma. Select "Other" to 
 
 <img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/export/newlineSequence.png?raw=true" width="350px" />
 
-Newline sequence is the record separator. The most commonly used on Windows is CRLF, while macOS and Linux uses LF.
+Newline sequence is the record separator. Windows typically uses CRLF, while macOS and Linux uses LF.
 
 5. Export to CSV button
 
