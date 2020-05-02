@@ -46,10 +46,6 @@ newlineSequence.png,2544
 - Click Import CSV to start importing using the above options
 - If the current worksheet is blank, the imported data is added the the current worksheet, otherwise the data is added to a new worksheet
 
-6. Save options toggle
-
-- If Save options is on, all Import CSV and Export CSV options are saved automatically
-
 ## Export CSV
 
 The Export CSV pane contains options for exporting the current worksheet to CSV. 
@@ -84,9 +80,3 @@ The Export CSV pane contains options for exporting the current worksheet to CSV.
 5. Export to CSV button
 
 - Click Export to CSV to export the current worksheet using the above options
-
-6. Save options toggle
-
-- If Save options is on, all Import CSV and Export CSV options are saved automatically
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
