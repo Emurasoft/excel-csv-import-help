@@ -45,7 +45,7 @@ numberFormat.webp,6094
 5. Number format dropdown
 
 - "Text" will import data from the CSV file as the Text number format. This means that text will not be converted into other formats such as date or currency.
-- "Auto-detect" will import data from the CSV file as the General number format. This means that text may be converted into other number formats such as date or currency.
+- "Auto-detect" will import data from the CSV file as the General number format. This means that the data may be converted into other number formats such as date or currency.
     - A cell containing `1-1` will become a Date format in Excel, and a cell containing `$1` will become a Currency.
 
 ![](images/import/numberFormat.webp)
@@ -68,6 +68,7 @@ The Export CSV pane contains options for exporting the current worksheet to CSV.
 2. Encoding dropdown
 
 - The output file encoding
+- UTF-8 is the most common format
 
 ![](images/export/encoding.webp)
 
