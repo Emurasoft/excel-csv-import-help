@@ -25,21 +25,21 @@ newlineSequence.png,2544
 - Most files will be imported correctly with Auto-detect, but you may have to select the correct encoding if the result does not look correct
 - This dropdown is available if Import type is File
 
-<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/import/encoding.png?raw=true" width="350px" />
+![](images/import/encoding.webp)
 
 3. Delimiter dropdown
 
 - The delimiter is the field separator, which is typically a comma
 - Select "Other" to input a custom delimiter
 
-<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/import/delimiter.png?raw=true" width="350px" />
+![](images/import/delimiter.webp)
 
 4. Newline sequence dropdown
 
 - The newline sequence is the record separator
 - Auto-detect will most likely be able to figure it out
 
-<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/import/newlineSequence.png?raw=true" width="350px" />
+![](images/import/newlineSequence.webp)
 
 5. Import CSV button
 
