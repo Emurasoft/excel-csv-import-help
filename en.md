@@ -18,7 +18,7 @@ newlineSequence.png,2544
 
 - Upload a file or select "Text input" to paste the CSV as text
 
-<img src="https://raw.githubusercontent.com/Emurasoft/excel-csv-import-help/master/images/import/importType.png?raw=true" width="350px" />
+![](images/import/importType.webp)
 
 2. Encoding dropdown
 
