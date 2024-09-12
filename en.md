@@ -68,7 +68,7 @@ The Export CSV pane contains options for exporting the current worksheet to CSV.
 2. Encoding dropdown
 
 - The output file encoding
-- UTF-8 is the most common format
+- UTF-8 is the most common encoding
 
 ![](images/export/encoding.webp)
 
