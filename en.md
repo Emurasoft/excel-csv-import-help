@@ -10,7 +10,7 @@ Here is a sample CSV to test out the app:
 name,size
 delimiter.webp,5826
 encoding.webp,6270
-importType.webp,7000
+importType.webp,11070
 newlineSequence.webp,6686
 numberFormat.webp,6094
 ```
