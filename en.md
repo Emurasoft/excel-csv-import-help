@@ -48,7 +48,7 @@ numberFormat.webp,6094
 - "Auto-detect" will import data from the CSV file as the General number format. This means that text may be converted into other number formats such as date or currency.
     - A cell containing `1-1` will become a Date format in Excel, and a cell containing `$1` will become a Currency.
 
-![](images/import/newlineSequence.webp)
+![](images/import/numberFormat.webp)
 
 6. Import CSV button
 
