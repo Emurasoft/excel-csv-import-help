@@ -8,10 +8,11 @@ Here is a sample CSV to test out the app:
 
 ```
 name,size
-delimiter.png,2553
-encoding.png,2216
-importType.png,7640
-newlineSequence.png,2544
+delimiter.webp,5826
+encoding.webp,6270
+importType.webp,7000
+newlineSequence.webp,6686
+numberFormat.webp,6094
 ```
 
 1. Import type dropdown and input
